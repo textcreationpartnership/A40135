@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ's parable of Dives and Lazarus for all call'd Christians and others to consider by G. Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40135</idno>
+            <idno type="STC">Wing F1762</idno>
+            <idno type="STC">ESTC R28647</idno>
+            <idno type="EEBO-CITATION">10731798</idno>
+            <idno type="OCLC">ocm 10731798</idno>
+            <idno type="VID">45553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45553)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1402:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ's parable of Dives and Lazarus for all call'd Christians and others to consider by G. Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rich man and Lazarus (Parable)</term>
+               <term>Bible. --  N.T.</term>
+               <term>Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45553:1"/>
+            <!-- PDF PAGE 102 -->
+            <pb facs="tcp:45553:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <p>Chriſt's Parable OF DIVES AND LAZARUS, For all Call'd CHRISTIANS and others To Conſider.</p>
+            <p>By <hi>G. Fox.</hi>
+            </p>
+            <p>Printed in the Year 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45553:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <pb n="3" facs="tcp:45553:2"/>
+            <!-- PDF PAGE 103 -->
+            <head>Chriſt's Parable OF DIVES AND LAZARUS, &amp;c.</head>
+            <p>ALL People in <hi>Chriſtendom</hi> and elſe-where, conſider in your Life time the Parable of Chriſt, concerning the Rich Man, and <hi>Lazarus</hi> the Begger.</p>
+            <p>For Chriſt ſaith, <hi>There was a certain Rich Man, which was clothed in Purple and Fine Linnen, and fared ſumptuouſly every Day.</hi>
+            </p>
+            <p>
+               <hi>And there was a certain Begger named</hi> Lazarus, <hi>which lay at his Gates</hi> (to wit, at the Rich Man's) <hi>full of Sores; and deſiring to be fed with the Crumbs which fell from the Rich Man's Table,</hi> (to wit, the poor man <hi>Lazarus</hi>) <hi>moreover the Dogs came and licked the Sores of the poor man.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:45553:3"/>
+               <!-- PDF PAGE 104 -->
+               <hi>And it came to paſs that the Begger died, and was carried by the Angels into</hi> Abraham<hi>'s Boſom.</hi>
+            </p>
+            <p>
+               <hi>The Rich Man alſo died, and was buried; and in Hell he lift up his Eyes, being in Torment, and ſeeth</hi> Abraham <hi>a far off lift up his Eyes, being in Torment, and ſeeth</hi> Abraham <hi>a far off, and</hi> Lazarus <hi>in his Boſom: And the rich man cryed, and ſaid, Father</hi> Abraham, <hi>have Mercy on me, and ſend</hi> Lazarus (to wit, the Begger) <hi>that he may deep the Tip of his Finger in Water, and cool my Tongue</hi> (to wit, the rich man's) <hi>for I am tormented in this Flame. But</hi> Abraham <hi>ſaid to the rich man, Son, re<g ref="char:EOLhyphen"/>member that thou in thy Life time received thy Good things, and hadſt thy Pleaſure; and likewiſe</hi> Lazarus <hi>the Begger the Evil Things, but now he is comforted, and thou art tormented.</hi>
+            </p>
+            <p>
+               <hi>And beſides all this, between us and you there is a Great Gulf fixed</hi> (to wit, <hi>Abraham</hi> and the Begger, and the rich man in Hell) <hi>ſo that they which would paſs from hence to you cannot, nei<g ref="char:EOLhyphen"/>ther can they paſs to us, that would come from thence</hi> (to wit, the rich man, that hath lived in pleaſures upon the Earth.)</p>
+            <p>
+               <hi>Then he ſaid</hi> (to wit, the rich man in Hell) <hi>I pray thee there<g ref="char:EOLhyphen"/>fore Father, that thou wouldſt ſent him to my Father's Houſe; for I have five Brethren, that he may teſtifie unto them, leſt they alſo come into this Place of Torment.</hi>
+            </p>
+            <p>
+               <hi>And</hi> Abraham <hi>ſaid unto the rich man in Hell, They have</hi> Moſes <hi>and the Prophets, let them hear them</hi> (to wit, while they be upon the Earth.</p>
+            <p>And the rich man in Hell ſaid, <hi>My Father</hi> Abraham, <hi>but if one went unto them from the dead, they will repent; and</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>ſaid unto him, If they hear not</hi> Moſes <hi>nor the Prophets, neither will they be perſwaded, though one come from the dead,</hi> Luke 16.</p>
+            <p>Nor now they that will not hear Chriſt and his Goſpel; and if they will not hear Chriſt and his Goſpel, they will not hear one that cometh from the dead; So the Chriſtians in profeſſion
+<pb n="5" facs="tcp:45553:4"/>
+               <!-- PDF PAGE 104 -->without poſſeſſion, are like the <hi>Jews</hi> that would not hear <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> and the Prophets, nor one come from the dead.</p>
+            <p>But the <hi>Jews</hi> did ſeek to put <hi>Lazarus</hi> to death (which Chriſt had raiſed from the dead) becauſe by reaſon of <hi>Lazarus</hi> much people were turned unto Chriſt, and did believe on him, that Chriſt had raiſed him from the dead. They were ſo mad a<g ref="char:EOLhyphen"/>gainſt Chriſt and his Miracles, as they are now againſt his Light, which is his Life in the Word.</p>
+            <p>Now all ye great and rich men upon the Earth, that fare ſumptuouſly every day, of what ſort ſoever, <hi>Jews, Heathens, Turks</hi> or <hi>Chriſtians,</hi> conſider the Parable of Chriſt on the rich man, who had not Compaſſion on poor <hi>Lazarus;</hi> and the rich man's Kindred nor himſelf regarded not the Law, nor the Pro<g ref="char:EOLhyphen"/>phets, neither would they regard one if he came from the dead, to tell them of the Miſery that this rich man was in, when he was in Hell.</p>
+            <p>Now you that are called Chriſtian and others, that fare ſumptuouſly every day, that be the rich men, do you regard the poor <hi>Lazaruſes?</hi> Do you regard the Life and Practice of the Law and Prophets? And do you regard the Life of Chriſtiani<g ref="char:EOLhyphen"/>ty, and the life and practice as Chriſt and the Apoſtles com<g ref="char:EOLhyphen"/>mand?</p>
+            <p>But, have you not ſlighted God's Meſſengers, and Prophets, and Servants, Sons and Daughters, and Hand-Maids that have been moved of the Lord God to warn you in your life time, of the Torment and Miſery of Hell Fire, that this Hard-hearted Rich Man fell into when he was dead.</p>
+            <p>And ſuch as have exhorted you who are alive and would have turned you to the Lord, you have priſoned, perſecuted and ba<g ref="char:EOLhyphen"/>niſhed: And do you not think that your End will be like this rich mans, when he dyed, who went into Hell-Fire? And poor <hi>Lazarus</hi> that he had not Compaſſion on went into Heaven.</p>
+            <p>
+               <pb n="6" facs="tcp:45553:5"/>
+               <!-- PDF PAGE 105 -->
+And do you not think, that all theſe poor <hi>Lazaruſes,</hi> that you have perſecuted, and do perſecute, that when they dye, they will not becarried into <hi>Abraham</hi>'s Boſom? And out of Hell, when there you are tormented, that you will cry like this rich man in Hell, to <hi>Abraham</hi> to ſend one of his poor <hi>Lazaruſes</hi> to dip the Tip of their Fingers in Water, to cool your Tongues, which are ſcorched with the Flames of Hell-Fire?</p>
+            <p>But then conſider what <hi>Abraham</hi>'s Anſwer will be to you, you who have received the good things in your life time, and had your pleaſure, and the poor <hi>Lazaruſes</hi> the evil things.</p>
+            <p>But <hi>Abraham</hi> tells you, though he call you Sons, <hi>There is a great Gulf betwixt you and him,; and he cannot come to you, nei<g ref="char:EOLhyphen"/>ther can you come to him.</hi>
+            </p>
+            <p>And <hi>Abraham</hi> will ſay unto you, Remember, how in your Life Time you fared ſumptuouſly every Day, and received the Good Things, and likewiſe the poor <hi>Lazaruſes</hi> the Evil Things from you, who had no Comfort amongſt you.</p>
+            <p>But now the poor <hi>Lazaruſes</hi> are comforted in <hi>Abraham</hi>'s Boſom, after they are dead, and after you are dead you are tormented in Hell-Fire, for all your Purple Coats, and Gor<g ref="char:EOLhyphen"/>geous Apparel, and your faring ſumptuouſly every Day.</p>
+            <p>And therefore all ye Hard-hearted Rich Men, be warned, and mind the Law and the Prophets, and Chriſt and the Apo<g ref="char:EOLhyphen"/>ſtles, and walk as they commanded; and mind the poor <hi>Laza<g ref="char:EOLhyphen"/>ruſes,</hi> and not talk only, if you will eſcape Hell-Fire: And this you muſt mind in your Life Time, or elſe when ye are dead ye muſt go to Hell-Fire, and there be tormented, as the Rich Man was when he was dead, and could not come out to <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> nor <hi>Abraham</hi> could not go to him.</p>
+            <p>And do you not think that he was a jolly Fellow, while he was upon the Earth, with his Dogs and his ſumptuous Fare, and Apparel in Purple and Fine Linnen, and fared ſumptuouſly every Day?</p>
+            <p>
+               <pb n="7" facs="tcp:45553:6"/>
+               <!-- PDF PAGE 105 -->
+Now this Parable Chriſt ſpoke to the covetous <hi>Phariſees,</hi> which juſtified themſelves and derided Chriſt.</p>
+            <p>And therefore conſider all ye rich men that are called Chri<g ref="char:EOLhyphen"/>ſtians, and others that do fare ſumptuouſly every Day; and are clothed in Purple and Fine Linnen, that deride that Life that is in Chriſt, which lighteth every man that comes into the World; do you regard the poor <hi>Lazaruſes,</hi> the poor Beggers that lie in your Gates full of Sores?</p>
+            <p>And do you conſider whither ye muſt go when ye dye? Do ye think upon this rich man where he is? and where poor <hi>La<g ref="char:EOLhyphen"/>zarus</hi> is? <hi>You</hi> that receive the Good Things in your Life Time, remember now while you are alive; and do not eat and drink without the Fear of God, to make your ſelves wanton, leſt you be lifted up, and regard not the poor, and look loftily and diſdainfully upon your Fellow-Creatures that be in Miſery, leſt the time come that you come into Torment with the rich man, when they are comforted in <hi>Abraham</hi>'s Boſom.</p>
+            <p>For you hear what Chriſt ſaith in his Parable, and what <hi>A<g ref="char:EOLhyphen"/>braham</hi> ſaith: <hi>Abraham</hi> tells the rich man that is tormented in Hell, that <hi>There is a great Gulf fixed between the rich man in Hell, and</hi> Lazarus <hi>and</hi> Abraham: <hi>So that they which would paſs from</hi> Abraham <hi>to the rich man in Hell cannot, neither can they from Hell paſs unto</hi> Abraham, <hi>that would come from thence.</hi>
+            </p>
+            <p>So this doth manifeſt, that when the wicked dye, they go to Hell: ſo there is no <hi>Purgatory,</hi> nor middle place, as ſome imagine: And they in Hell cannot paſs to <hi>Abraham,</hi> nor <hi>A<g ref="char:EOLhyphen"/>braham</hi> to them, ſo there is no <hi>Prayers</hi> that will get them out of Hell-Fire.</p>
+            <p>And therefore conſider ye this that fare ſumptuouſly every day, &amp; are clothed in your purple and fine linnen, &amp; regard not the poor, leſt the day of your viſitation do paſs over your heads, and you do continue in your Wickedneſs, and dye in your Sins;
+<pb n="8" facs="tcp:45553:7"/>
+               <!-- PDF PAGE 106 -->for the Wicked muſt be turned into Hell, and all that forget God.</p>
+            <p>For this rich man in Hell cryed unto <hi>Abraham</hi> to have Mer<g ref="char:EOLhyphen"/>cy upon him, and for him to ſend poor <hi>Lazarus</hi> that he might dip the Tip of his Finger in Water to cool his Tongue; for he was tormented in the Flame in Hell-Fire.</p>
+            <p>Now <hi>Abraham</hi> could ſhew him no Mercy, that was in Hell-Fire, nor <hi>Lazarus</hi> they could not comfort this rich man with as much Water as they could take up on the Tip of their Fing<g ref="char:EOLhyphen"/>er; ſo there was no Comfort to be ſhewed to him.</p>
+            <p>And though <hi>Abraham</hi> called him Son, this was a Parable to the <hi>Jews,</hi> who profeſt themſelves Children of <hi>Abraham,</hi> and did not do the Works of <hi>Abraham.</hi>
+            </p>
+            <p>So this Parable may ſtand to them that profeſs themſelves Chriſtians, and do not the Works of Chriſtianity.</p>
+            <p>And when they be in Hell, what good will all their Riches, and their ſumptuous Fare, and their fine Linnen and Purple do them? When they live without Mercy and Compaſſion in their Life Time, and without the Fear of God, and go to Hell-Fire, and be in Torment when they dye.</p>
+            <p>And therefore for them to ſee the poor deſpiſed Begger <hi>La<g ref="char:EOLhyphen"/>ſarus</hi> in Happineſs in <hi>Abraham</hi>'s Boſom, and a great Gulf fixed between them in Hell, and the poor that be in <hi>Abraham</hi>'s Bo<g ref="char:EOLhyphen"/>ſom, that <hi>Abraham</hi> and the Begger cannot paſs to them in Hell, neither can they paſs to them in Heaven.</p>
+            <p>And therefore what doth all your Pleaſures, and ſumptuous Fare and Aparel avail you, whoſe Dogs have more Compaſſi<g ref="char:EOLhyphen"/>on upon the poor then you in your Life Time.</p>
+            <p>
+               <hi>Abraham</hi> tells you the Reaſon, how that there is a great Gulf fixed betwixt you and them, as afore-ſaid: And there<g ref="char:EOLhyphen"/>fore remember this in your Life Time, and be warned, and re<g ref="char:EOLhyphen"/>pent; and while you have Time prize it: This is the Day of
+<pb n="9" facs="tcp:45553:8"/>
+               <!-- PDF PAGE 106 -->your Viſitation, who live in Pleaſures and Fulneſs and Wan<g ref="char:EOLhyphen"/>tonneſs; deſpiſing the poor, and perſecuting the juſt and inno<g ref="char:EOLhyphen"/>cent; and comforting your ſelves with your pleaſures, and Things of this World: And nouriſhing your Hearts, as in a Day of ſlaughter, and living wantonly upon the Earth.</p>
+            <p>And live neither according to the Law of <hi>Moſes,</hi> nor the Prophets; nor according to the Goſpel of Chriſt Jeſus, though they all tell you what Miſery will be your End, yet you will not hear them, nor obey them.</p>
+            <p>And therefore if you will not hear, neither the Goſpel, the Law nor the Prophets, then hear what the rich man in Hell ſaith to you in his Torment, as in <hi>Luke</hi> 16.</p>
+            <p>For <hi>Abraham</hi> nor <hi>Lazarus</hi> could not help him, nor comfort him, nor ſhew him any Mercy, who had ſhewed no Mercy in his Life Time.</p>
+            <p>So you may ſee plainly by Chriſt's own Words, here is no <hi>Purgatory</hi> or Middle Place; but when the Wicked dye they go to Hell, and the juſt are carried in <hi>Abraham</hi>'s Boſom with the Angels.</p>
+            <p>And when this rich Man could get no Hope of any Comfort in Hell from <hi>Abraham</hi> and <hi>Lazarus,</hi> he was ſo tormented, that he deſired <hi>Abraham</hi> that he would ſend to his Father's Houſe; for he had five Brethren, that they may teſtifie unto them, leſt they ſhould come into that place of Torment, to wit, Hell.</p>
+            <p>And <hi>Abraham</hi> told the rich man in Hell, <hi>That they had</hi> Mo<g ref="char:EOLhyphen"/>ſes <hi>and the Prophets, let them hear them.</hi>
+            </p>
+            <p>So now you have Chriſt to hear, and his Apoſtles, and if you do not hear Chriſt's Voice that ſpeaks from Heaven, and follow him, who is the Way to God, the Truth and the life.</p>
+            <p>Then conſider and ſee if your Way be not the rich man's to Hell, to his place of Torments: But i<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it not your Principle to ſay, that there is no hearing Chriſt's Voice whileſt you are alive hereupon the Earth?</p>
+            <p>Oh! Therefore be warned, and be ſerious, and conſider
+<pb n="10" facs="tcp:45553:9"/>
+               <!-- PDF PAGE 107 -->your latter End; and now you have Time, prize it, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt you ſay, you had Time, when it is paſt.</p>
+            <p>For if you do not prize your Time whileſt you are upon th<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Earth, Chriſt tells you, you muſt go to Hell: Nay, though you call Chriſt Lord, and ſay, you have preacht in the Streets, yet, if you be found workers of Iniquity; though you may have preacht Chriſt's Death and Reſurrection, and propheſied in his Name, yet, if ye be found workers of Iniquity, Chriſt will ſay unto you, <hi>Depart from me, I know you not; go ye curſed in<g ref="char:EOLhyphen"/>to Everlaſting Puniſhment, prepared for the Devil and his An<g ref="char:EOLhyphen"/>gels.</hi>
+            </p>
+            <p>And though you may ſay as many Prayers, as the babbling <hi>Phariſees</hi> did, three times a Day, and call Chriſt Lord, and do not the Things which he commands, he tells you, <hi>Ye ſhall not enter into the Kingdom of God.</hi>
+            </p>
+            <p>For Chriſt tells you, It is thoſe that <hi>Do the Will of his Father, which is in Heaven, that enter into the Kingdom of God.</hi>
+            </p>
+            <p>And therefore do not vex, nor quench, nor grieve the Spi<g ref="char:EOLhyphen"/>rit of God, which is given unto you, to inſtruct you to ſhun the Wayes of Sin and Evil, and Pleaſures, which lead to Hell,</p>
+            <p>And do not hate the Light, which Chriſt hath enlightned you withal, that ſhines in your dark Hearts, which would given you the Knowledge of your loſt State; and of your Sins, and of Chriſt that ſaves you from your Sins.</p>
+            <p>And do not walk Deſpitefully againſt the Spirit of Grace, nor turn it into Wantonneſs; which Grace of God that brings Salvation, hath appeared unto all Men, to teach them, and to bring them Salvation.</p>
+            <p>I ſay, To teach you to live ſoberly, and godly, and to deny all Unrighteouſneſs, and Ungodlineſs, which leads to Hell.</p>
+            <p>And if you do hate the Light, and quench his Spirit, and walk Deſpitefully againſt the Spirit of Grace, and turn it into Wantonneſs; God and Chriſt will be clear of you, when you are condemned to Hell-Fire, and in it roar.</p>
+            <p>
+               <pb n="11" facs="tcp:45553:10"/>
+               <!-- PDF PAGE 107 -->
+For, what could God do more for you, who ſent his Son to dye for you, and ſent his Grace, which hath appeared to all Men to teach them, and bring their and your Salvation; and poured out of his Spirit upon all Fleſh, and his Son hath enligh<g ref="char:EOLhyphen"/>tened every man that cometh into the World; and he bids them <hi>Believe in the Light, that they may become Children of the Light.</hi>
+            </p>
+            <p>And ſent his Apoſtles and Diſciples into all Nations, To preach the Goſpel unto every Creature freely, as they had re<g ref="char:EOLhyphen"/>ceived it freely; and yet you to hate his light, and quench his ſpirit, and reſiſt it, and turn his Grace into Wantonneſs, and not obey his Goſpel, but perſecute his free Meſſengers of it; and ſo not do the Thing which God and Chriſt command; but live in Pleaſures and Wantonneſs, and deſpiſe the poor, and perſecute the juſt; How can you expect any other End, but this rich man's in Hell?</p>
+            <p>And acknowledge that God and Chriſt were Juſt and Mer<g ref="char:EOLhyphen"/>ciful all your life time to you, before he gave you up to your Hearts-luſts, which you walked after, who reſiſted his Grace and Spirit, and his Servants and Meſſengers, that admoniſhed you, within and without.</p>
+            <p>Now if any ſhould imagine, that by giving Means unto Prieſts, that they can pray your Souls out of <hi>Purgatory,</hi> or Middle Place, <hi>Abraham</hi> and Chriſt tell you no ſuch thing; but tell you, you cannot come to <hi>Abraham,</hi> nor <hi>Abraham</hi> unto you, when you are dead and in Hell.</p>
+            <p>And therefore be warned in your Life Time; for <hi>There is no Repentance in the Grave,</hi> it muſt be in you Life Time, and before you go to the Grave: for, <hi>As the Tree falls, ſo it lies,</hi> as the Scripture tells you; therefore conſider this while you be alive.</p>
+            <closer>
+               <dateline>
+                  <date>The 7th Mo. 1676</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
